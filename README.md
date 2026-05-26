@@ -1,2 +1,8 @@
-Sistema de Reservas de Hotel proyecto final
-esto es un proyecto realizado por mi grupo, hecho de manera relativamente simple
+<div align="center">
+
+ PROYECTO FINAL
+ SISTEMA DE RESERVAS DE HOTEL
+
+---
+</div>
+esto fue un proyecto hecho por mi grupo, de manera relativamente simple
